@@ -5,4 +5,4 @@ A game created by @cosmicatech just as a concept.
 ## Changelog
 ### Version 1.0 Beta
 - Initial Release
-- note: game still says @jacksonsevendelta because that was my old username and I need to edit the whitespace so I can change it to @cosmicatech
+- The game still says @jacksonsevendelta because that was my old username and I need to edit the whitespace so I can change it to @cosmicatech
